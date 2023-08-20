@@ -56,3 +56,6 @@ The initial values assigned to the parameters before starting the optimization p
 ### Application of gradient descent over multivariate functions:
 
 ![](animations/simple_descent_3.gif)
+
+
+To see an interactive version of the notebook click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Implementing-Gradient-Descent-by-hand-/master?labpath=Implementation%20by%20hand%20of%20gradient%20descent%20.ipynb)
