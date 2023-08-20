@@ -10,7 +10,8 @@ In this repository, we'll get closer to this concept through the geometric repre
  .  The principal concept underlying gradient descent implementation. **Derivative definition** is a local concept, calculated between an interval (between two points) in which the function is continuous (two input values $x_{1}$ and $x_{2}$, where $h=x_{2}-x_{1}$), and represented as the limit of that same interval when it gets down to 0, we usually found it as:
 
 $$ f´(x)=\lim_{h \to 0}\frac{f(x_{1}+h)-f(x_{1})}{h}$$
-  ![](animations/Derivative.gif)
+
+![](animations/Derivative.gif)
 
  2. **Gradient**
 
