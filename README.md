@@ -14,4 +14,4 @@ $$ f´(x)=\lim_{h \to 0}\frac{f(x_{1}+h)-f(x_{1})}{h}$$
 
    If we draw a line between the two input values (also known as the images of $x_{1}$ and $x_{2}$) what we obteined is a line that crosses the function $f(x)$ in the interval defined by $x_{1}$ and $x_{2}$ (secant line), as the interval is reduced, the images of the two input values, $f(x_{1})$ and $f(x_{2})$, tend to get closer, at a point that there is no distance between these, making $h=x_{2}-x_{1}=0$
 
-  ![](animations/simple_descent_1.gif)
+  ![](animations/Derivative.gif)
