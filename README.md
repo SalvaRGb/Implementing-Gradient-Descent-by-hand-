@@ -27,6 +27,32 @@ Here are some cool animations on simple and multivariable functions:
 
 ![](animations/simple_descent_1.gif)
 
-* kalsdjfaklsdjfhlkasd
+### Playing around with the main components of gradient descent:
+The result of playing with the basic elements of gradient descent in ML applications:
+
+1. **Objective Function (Cost or Loss Function)**:
+The function that needs to be minimized. It represents the problem you are trying to solve or optimize. 
+
+2. **Gradient**:
+The gradient is the vector of partial derivatives of the objective function with respect to each parameter. It indicates the direction of steepest ascent. In mathematical notation, the gradient is denoted as ∇f(x).
+
+3. **Learning Rate**:
+The learning rate (also known as step size) determines the size of the steps taken in the direction of the gradient during each iteration. It is a hyperparameter that needs to be set appropriately. Too large a learning rate may lead to overshooting, and too small a learning rate may result in slow convergence.
+
+4. **Update Rule**:
+The formula used to update the parameters based on the gradient and the learning rate. It adjusts the parameters in the direction that reduces the value of the objective function.
+
+5. **Convergence Criteria (or tolerance)**:
+A stopping condition that determines when the optimization process should stop. This can be based on a maximum number of iterations, a certain level of tolerance, or other conditions.
+
+6. **Iteration**:
+The process of repeatedly updating the parameters using the update rule. Each iteration aims to move the parameters closer to the optimal values.
+
+7. **Initial Guess (Starting Point)**:
+The initial values assigned to the parameters before starting the optimization process. The optimization algorithm iteratively updates these values to reach the optimal solution.
+
 ![](animations/simple_descent_2.gif)
+
+### Application of gradient descent over multivariate functions:
+
 ![](animations/simple_descent_3.gif)
