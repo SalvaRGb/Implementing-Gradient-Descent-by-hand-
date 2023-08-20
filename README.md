@@ -23,6 +23,10 @@ But, How does gradient descent help us find local or global minimum/s on a funti
 
 Here are some cool animations on simple and multivariable functions:
 
+### Simple implementation over non-multivariate function:
+
 ![](animations/simple_descent_1.gif)
+
+* kalsdjfaklsdjfhlkasd
 ![](animations/simple_descent_2.gif)
 ![](animations/simple_descent_3.gif)
